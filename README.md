@@ -1,4 +1,8 @@
-## Hi there 👋
+- Hi, I’m @rowanjb 
+- I'm a PhD student from Canada now based in beautiful Munich, Germany
+- My primary scientific interest is polar oceanography, and especially [ocean convection](https://www.pnas.org/doi/pdf/10.1073/pnas.48.5.766)   
+- I also enjoy the techy side of climate modelling, i.e., numerics, HPCs, Linux, Python, Fortran, etc etc
+- Checkout my webpage [here](https://rowanjb.github.io)
 
 <!--
 **rowanjb/rowanjb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
