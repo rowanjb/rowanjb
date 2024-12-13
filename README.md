@@ -1,4 +1,4 @@
-- Hi, I’m @rowanjb 
+- Hello :)
 - I'm a PhD student from Canada now based in beautiful Munich, Germany
 - My primary scientific interest is polar oceanography, and especially [ocean convection](https://www.pnas.org/doi/pdf/10.1073/pnas.48.5.766)   
 - I also enjoy the techy side of climate modelling, i.e., numerics, HPCs, Linux, Python, Fortran, etc etc
