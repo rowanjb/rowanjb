@@ -1,8 +1,8 @@
-1. Hello
-2. I'm a PhD student from Canada now based in Munich, Germany
-3. My primary scientific interest is polar oceanography, and especially ocean convection ([which is Henry Stommel-certified neato](https://www.pnas.org/doi/pdf/10.1073/pnas.48.5.766))
-4. I also enjoy the tech side of climate modelling, i.e., numerics, HPCs, Linux, Python, Fortran, etc etc
-5. You can check out my webpage [here](https://rowanjb.github.io)
+Hello :)
+- I'm a PhD student from Canada now based in Munich, Germany
+- My primary scientific interest is polar oceanography, and especially ocean convection ([which is Henry Stommel-certified neato](https://www.pnas.org/doi/pdf/10.1073/pnas.48.5.766))
+- I also enjoy the tech side of climate modelling, i.e., numerics, HPCs, Linux, Python, Fortran, etc etc
+- You can check out my webpage [here](https://rowanjb.github.io)
 
 <!--
 **rowanjb/rowanjb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
