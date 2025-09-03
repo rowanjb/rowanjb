@@ -4,6 +4,11 @@ Hello :)
 - I also enjoy the tech side of climate modelling, i.e., numerics, HPCs, Linux, Python, Fortran, etc etc
 - You can check out my webpage [here](https://rowanjb.github.io)
 
+![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
+[![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0001-6038-8359&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0001-6038-8359)
+[![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=wREIixMAAAAJ&hl=en&oi=sra)
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rowan-brown/)
+
 <!--
 **rowanjb/rowanjb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
