@@ -1,8 +1,6 @@
-Hello :)
-- I'm a PhD student from Canada now based in Munich
-- My primary scientific interest is polar oceanography, and especially ocean convection ([which is Henry Stommel-certified cool](https://www.pnas.org/doi/pdf/10.1073/pnas.48.5.766))
-- I also enjoy the tech side of climate modelling, i.e., numerics, HPCs, Linux, Python, Fortran, etc etc
-- You can check out my webpage [here](https://rowanjb.github.io)
+Hello / Servus / Moin! 
+
+I'm a PhD student based at LMU Munich and the Alfred Wegener Institute. My primary scientific interest is polar oceanography, and especially ocean convection ([which is Henry Stommel-certified cool](https://www.pnas.org/doi/pdf/10.1073/pnas.48.5.766)). Feel free to check out my webpage [here](https://rowanjb.github.io).
 
 ![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0001-6038-8359&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0001-6038-8359)
